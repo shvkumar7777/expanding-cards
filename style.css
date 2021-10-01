@@ -1,4 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@100,200;400&display=swap');
 *{
+    box-sizing: border-box;
+    
+}
+
+body{
+    font-family: Mulish,sans-serif;
+    font-weight: 100;
     margin: 0%;
-    padding: 0%;
+    color: #eee;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+}
+.container{
+    
 }
