@@ -10,12 +10,21 @@ body{
     margin: 0%;
     color: #eee;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     overflow: hidden;
 }
 .container{
-    
+    display:flex;
+    width:90vw;
 }
+
+/* .panel{
+    height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius:50px;
+    flex: .8;
+} */
