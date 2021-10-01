@@ -32,7 +32,7 @@ body{
     color: #eee;
     margin: 8px;
 }
-
+/* the h3 element will be displayed in the bottom of the panel element as the h3 element is absolute to the panel element */
 .panel h3{
     position: absolute;
     bottom: 20px;
